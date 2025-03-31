@@ -27,6 +27,7 @@ npm start
 
 ## 📦 项目结构
 
+```
 /src
 ├── component # 组件目录
 │ ├── WeatherCard.tsx # 天气卡片组件
@@ -40,6 +41,7 @@ npm start
 ├── README.md # 项目说明文档
 ├── package.json # 项目配置
 └── tsconfig.json # TypeScript 配置
+```
 
 ## 🚦 常见问题
 
