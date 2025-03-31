@@ -46,8 +46,8 @@ npm start
 ## 🚦 常见问题
 
 1. API 请求失败
-   • 检查 api.ts 中 API Key 是否有效。
-   • 确保网络环境可以访问 weatherapi。
+   - 检查 api.ts 中 API Key 是否有效。
+   - 确保网络环境可以访问 weatherapi。
 2. 城市拼写错误
-   • 如果 API 没有返回数据，可能是拼写问题。
-   • 确保城市名拼写正确，例如：Beijing 而不是 Beijin。
+   - 如果 API 没有返回数据，可能是拼写问题。
+   - 确保城市名拼写正确，例如：Beijing 而不是 Beijin。
